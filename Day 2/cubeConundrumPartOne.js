@@ -1,4 +1,4 @@
-let input = require('./inputDayTwo');
+let input = require('./inputDayTwoPartOne');
 
 function cubeConundrumSolution(input){
 
